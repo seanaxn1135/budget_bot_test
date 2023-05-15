@@ -1,5 +1,4 @@
 {
-  "eslint.workingDirectories": [{ "mode": "auto" }],
   "root": true,
   "parser": "@typescript-eslint/parser",
   "plugins": ["@typescript-eslint"],
