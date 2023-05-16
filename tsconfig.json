@@ -10,6 +10,9 @@
     "forceConsistentCasingInFileNames": true,
     "strict": true,
     "noImplicitAny": true,
-    "skipLibCheck": true
-  }
+    "skipLibCheck": true,
+    "moduleResolution": "Node",
+    "sourceMap": true
+  },
+  "exclude": ["node_modules", "e2e", "playwright.config.ts"]
 }
