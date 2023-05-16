@@ -14,5 +14,5 @@
     "moduleResolution": "Node",
     "sourceMap": true
   },
-  "exclude": ["node_modules", "e2e", "playwright.config.ts"]
+  "exclude": ["node_modules", "src/e2e", "playwright.config.ts"]
 }
